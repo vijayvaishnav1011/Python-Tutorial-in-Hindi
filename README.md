@@ -28,8 +28,3 @@
 - स्कूल/कॉलेज के Students के लिए
 - Self-learners जो Python सीखना चाहते हैं
 
-## ⚙️ कैसे इस्तेमाल करें?
-
-1. सबसे पहले GitHub से इस repo को download या clone करें:
-   ```bash
-   git clone https://github.com/vijayvaishnav1011/python-basics-hindi.git
